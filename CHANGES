@@ -1,0 +1,9 @@
+Changes for GappX::Dialogs
+
+{{$NEXT}}
+
+0.001     2012-10-02 15:28:44
+- Using Dist::Zilla
+
+0.01
+- Initial Release
