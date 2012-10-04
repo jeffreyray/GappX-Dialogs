@@ -21,7 +21,7 @@ has 'image' => (
     isa => GappDialogImage,
     default => sub {
         Gapp::Image->new(
-            stock => [ 'gtk-dialog-question', 'dialog' ],
+            stock => [ 'gtk-dialog-info', 'dialog' ],
             fill => 0,
             expand => 0,
         );
